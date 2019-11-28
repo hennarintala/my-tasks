@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 1.5px 0px rgb(95, 17, 230);
+}
+
+.App-header{
+  background-color: #000000;
+  height: 50px;
+  padding: 20px;
+  color: aliceblue;
+}
+
+.pt-logo {
+  height: 260px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  background-image: url("/logo.jpg");
+}
