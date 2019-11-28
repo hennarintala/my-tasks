@@ -12,7 +12,6 @@ import 'react-confirm-alert/src/react-confirm-alert.css';
 
 const Trainingslist = () => {
     const [training, setTraining] = useState([]);
-    const [open, setOpen] = useState(false);
     const [message, setMessage] = useState('');
 
     useEffect(() => {
