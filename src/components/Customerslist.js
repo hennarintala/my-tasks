@@ -32,7 +32,7 @@ const Customerslist = () => {
     const DeleteCustomer = (link) => {
         fetch(link, {method: 'DELETE'})
         .then(res => {
-            toast.success("Car Deleted", {
+            toast.success("Customer Deleted", {
                 position:toast.POSITION.BOTTOM_LEFT
             });
             fetchCustomer();
