@@ -1,3 +1,8 @@
+Task Case:
+Personal Trainer company needs front end to their customer database. Database contains info about customers and their trainings. They have REST API and documentation which contains all information needed for front end development.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
